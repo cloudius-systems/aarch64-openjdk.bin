@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=OpenJDK 8 Policy Tool
+Comment=Manage OpenJDK policy files (1.8.0.5-10.b13.fc21.aarch64)
+Exec=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.5.aarch64/bin/policytool
+Icon=java
+Terminal=false
+Type=Application
+StartupWMClass=sun-security-tools-PolicyTool
+Categories=Development;Java;
+Version=1.0
+X-Desktop-File-Install-Version=0.22
